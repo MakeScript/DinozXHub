@@ -43,7 +43,7 @@ local Moon = {
     CodeServer = 'game:GetService("TeleportService"):TeleportToPlaceInstance(game.PlaceId,'..'\''..tostring(game.JobId)..'\''..')'
 
 		local Embed = {
-			 ["username"] = "Zps Editor",
+			 ["username"] = "Dinoz Moon Checker",
 			 ["avatar_url"] = "https://raw.githubusercontent.com/ZPSXHUB/CSS/main/background6.jpg",
 			 ["embeds"] = {
 				{
